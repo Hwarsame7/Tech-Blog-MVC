@@ -1,0 +1,42 @@
+[
+  {
+      "id": "1",
+      "name": "Samantha",
+      "password": "Password123"
+  },
+  {
+      "id": "2",
+      "name": "jon",
+      "password": "Password123"
+  },
+  {
+      "id": "3",
+      "name": "kelly",
+      "password": "Password123"
+  },
+  {
+      "id": "4",
+      "name": "Ree",
+      "password": "Password123"
+  },
+  {
+      "id": "5",
+      "name": "yoshi",
+      "password": "Password123"
+  },
+  {
+      "id": "6",
+      "name": "Cormac",
+      "password": "Password123"
+  },
+  {
+      "id": "7",
+      "name": "jace",
+      "password": "Password123"
+  },
+  {
+      "id": "8",
+      "name": "Daniel",
+      "password": "Password123"
+  }
+]
