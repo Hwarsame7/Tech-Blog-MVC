@@ -19,19 +19,7 @@ Browse to http://localhost:3001 to access the main page
 Create a new user account
 Use the links and forms to create and manage blog posts and comments.
 
-Link for github repo and deployed in heroku
 
-https://github.com/lalitakapadia/tech-blog-mvc.git
-
-![Alt text](/screenshots/main-page.png)
-
-![Alt text](/screenshots/login-signup.png)
-
-![Alt text](/screenshots/logged-in.png)
-
-![Alt text](/screenshots/create-post.png)
-
-![Alt text](/screenshots/no-posts.png)
 
 
 
